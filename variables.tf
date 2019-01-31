@@ -1,0 +1,13 @@
+variable "aws_key_path" {}
+variable "aws_key_name" {}
+variable "aws_region" {}
+variable "aws_profile" {}
+variable "eks_worker_node_ami" {}
+variable "vpc_cidr" {}
+variable "public_subnet_cidr_1" {}
+variable "public_subnet_cidr_2" {}
+variable "public_subnet_cidr_3" {}
+variable "cluster_name" {}
+variable "instance_type" {}
+variable "s3_state_store" {}
+variable "dynamodb_table_name" {}

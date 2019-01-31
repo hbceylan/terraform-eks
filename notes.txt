@@ -1,0 +1,6 @@
+Prerequisites
+- aws account
+- aws user
+- aws ec2 pem
+- configure aws cli
+- install aws iam authenticator
